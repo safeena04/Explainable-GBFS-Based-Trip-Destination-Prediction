@@ -1,0 +1,2 @@
+common_rentals,both_correct,both_wrong,baseline_only_correct,e6_only_correct,baseline_accuracy_percent,e6_accuracy_percent,accuracy_difference_percentage_points,mcnemar_exact_p_value
+2638,1745,651,37,205,67.55117513267626,73.91963608794542,6.368460955269157,2.183995888277852e-29

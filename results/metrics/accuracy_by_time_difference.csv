@@ -1,0 +1,6 @@
+time_group,total_predictions,correct_predictions,accuracy_percent
+0-5 min,153,59,38.56209150326798
+5-10 min,1467,1263,86.09406952965234
+10-15 min,792,537,67.8030303030303
+15-20 min,226,91,40.26548672566372
+Above 20 min,0,0,

@@ -1,0 +1,4 @@
+run_1,run_2,latitude_spearman,latitude_p_value,longitude_spearman,longitude_p_value
+1,2,0.9761904761904763,3.3143960262001043e-05,1.0,0.0
+1,3,1.0,0.0,1.0,0.0
+2,3,0.9761904761904763,3.3143960262001043e-05,1.0,0.0

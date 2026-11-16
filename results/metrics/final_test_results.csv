@@ -1,0 +1,2 @@
+experiment,max_distance,max_time_minutes,total_rentals,rentals_with_candidates,candidate_availability_percent,rentals_retaining_correct_destination,candidate_coverage_percent,average_candidates_per_rental,correct_destinations_eliminated
+Baseline,3000,30.0,2282,2184,95.71,1977,86.63,2.59,305

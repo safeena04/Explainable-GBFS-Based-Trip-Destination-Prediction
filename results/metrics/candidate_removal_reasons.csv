@@ -1,0 +1,8 @@
+configuration,distance_only_removed_pairs,time_only_removed_pairs,both_conditions_failed_pairs,correct_pairs_removed_by_distance_only,correct_pairs_removed_by_time_only,correct_pairs_removed_by_both
+E1,1086,1116,3474,394,329,758
+E2,2936,528,1624,1038,88,114
+E3,244,3004,1586,5,806,281
+E4,1058,1380,772,239,155,47
+E5,0,4590,0,0,1087,0
+E6,0,2152,0,0,202,0
+Baseline,0,0,0,0,0,0

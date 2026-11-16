@@ -1,0 +1,2 @@
+experiment,max_distance,max_time_minutes,total_rentals,rentals_with_candidates,candidate_availability_percent,rentals_retaining_correct_destination,candidate_coverage_percent,average_candidates_per_rental,correct_destinations_eliminated
+E6,3000,20.0,2850,2638,92.56,2413,84.67,1.78,437

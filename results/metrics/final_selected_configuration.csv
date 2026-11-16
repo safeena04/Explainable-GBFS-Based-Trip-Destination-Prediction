@@ -1,0 +1,2 @@
+configuration,tolerance_m,candidate_coverage_percent,candidate_availability_percent,average_candidates,selected_candidate_end_to_end_accuracy_percent,selected_candidate_conditional_accuracy_percent
+E9,1000,88.21052631578948,95.75438596491227,2.3508771929824563,72.59649122807016,75.81531696592158

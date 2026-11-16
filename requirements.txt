@@ -1,0 +1,23 @@
+# Phase 1 requirements -- Trip Destination Prediction (M.Tech project)
+# Lower bounds only. After check_environment.py passes on YOUR machine, run:
+#     pip freeze > requirements-lock.txt
+# and keep that file so the experiment can be reproduced exactly.
+
+# --- needed from Phase 2 onwards ---
+numpy
+pandas
+tqdm
+joblib
+geopy
+scikit-learn
+xgboost>=2.0
+
+# --- needed from Phase 8 / 10 (safe to install now) ---
+shap
+matplotlib
+seaborn
+folium
+streamlit
+
+# --- optional: for running the original main.ipynb for reference ---
+ipykernel

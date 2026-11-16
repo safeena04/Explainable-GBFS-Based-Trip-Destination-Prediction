@@ -1,0 +1,4 @@
+experiment,max_distance,max_time_minutes,total_rentals,candidate_pairs,available_rentals,availability_percent,average_candidates,covered_100m,coverage_100m_percent,covered_250m,coverage_250m_percent,covered_500m,coverage_500m_percent,covered_1000m,coverage_1000m_percent
+E7,3000,22.5,2850,5621,2676,93.89,1.972,2413,84.67,2424,85.05,2443,85.72,2483,87.12
+E8,3000,25.0,2850,6146,2707,94.98,2.156,2447,85.86,2457,86.21,2477,86.91,2516,88.28
+E9,3000,27.5,2850,6700,2729,95.75,2.351,2465,86.49,2475,86.84,2497,87.61,2538,89.05

@@ -1,0 +1,8 @@
+experiment,max_distance,max_time_minutes,total_rentals,rentals_with_candidates,candidate_availability_percent,rentals_retaining_correct_destination,candidate_coverage_percent,average_candidates_per_rental,correct_destinations_eliminated
+E1,1000,10.0,5132,2524,49.18,2138,41.66,0.55,2994
+E2,1000,20.0,5132,3071,59.84,2491,48.54,0.76,2641
+E3,2000,10.0,5132,3409,66.43,2826,55.07,0.85,2306
+E4,2000,20.0,5132,4396,85.66,3866,75.33,1.41,1266
+E5,3000,10.0,5132,3547,69.12,2835,55.24,0.93,2297
+E6,3000,20.0,5132,4747,92.5,4301,83.81,1.79,831
+Baseline,3000,30.0,5132,4922,95.91,4501,87.7,2.56,631
